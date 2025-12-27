@@ -8,4 +8,4 @@
 * OS internals
 * Building small tools that automate everyday tasks
 
-🌱 Always learning — computer science in class, mathematics for fun.
+Always learning — computer science in class, mathematics for fun.
