@@ -1,7 +1,20 @@
- Hi, I’m **Farnam**, a computer science student at **Shahid Beheshti University** with a deep love for mathematics.
+ Hi, I’m **Farnam**, a computer science student at **Shahid Beheshti University** (formerly Melli University of Iran).
 
-I have knowledge in:
-* C++ Development
-* Python Development
-* UNIX-Like Systems structure
 
+### Skills and tool stack
+- Languages: C++, Python, Java, C#
+- Concepts: OOP, Linux system fundamentals 
+- Tools : Git, Linux
+
+[![My Skills](https://skillicons.dev/icons?i=bash,cs,cpp,java,py,linux)](https://skillicons.dev)
+
+### Current focus 
+- Studying CS at university
+- Building side projects
+- Learning modern software development
+
+### Interests
+- Mathematics
+- Data analysis
+- Machine learning
+- Low-level programming
